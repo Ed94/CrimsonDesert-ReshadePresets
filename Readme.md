@@ -1,7 +1,17 @@
-# WIP
+# Crimson Desert: Reshade Presets
 
-I made a basic one to reduce the noise artifacts from the game.
-The other uses pandafx and filmdeck to add additional graining and some color grading for a cinematic look. Makes the noise the game naturally has less distracting.
+I made a basic one to reduce the noise artifacts from the game using various effects including negative/positive film grain in filmdeck. Makes the noise/warping/banding the game naturally has less distracting.
+The other uses pandafx and filmdeck to add additional some color grading for a cinematic look.
+
+## Instructions
+
+1. Download the latest version of Reshade from the official website: https://reshade.me/
+2. Install reshade to Homura Hime app install location or [ShaderGlass](https://github.com/mausimus/ShaderGlass)
+   * ![img](./Gallery/Instructions_ReshadeInstall.png)
+3. Drag and drop desired presets and dependent reshade-shaders directory to installed reshade directory
+   * ![img](./Gallery/Instructions_DragAndDrop.png)
+
+## Gallery
 
 ![img](./Gallery/20260405223258_1.jpg)
 ![img](./Gallery/20260405223347_1.jpg)
